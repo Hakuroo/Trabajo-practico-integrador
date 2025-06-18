@@ -1,9 +1,9 @@
 git init
-git remote add origin https://github.com/TU_USUARIO/Trabajo-practico-integrador.git
+git remote add origin https://github.com/Hakuroo/Trabajo-practico-integrador.git
 git add .
 git commit -m "Entrega completa TP integrador"
-git push -u origin master
-# Trabajo Práctico Integrador - Administración de Sistemas GNU/Linux
+git push -u origin main
+
 
 **Participantes:**
 - Elian Wussler
